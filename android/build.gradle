@@ -20,7 +20,7 @@ buildscript {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion 30
 
     defaultConfig {
         minSdkVersion 16
